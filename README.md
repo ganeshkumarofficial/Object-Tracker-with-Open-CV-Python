@@ -4,4 +4,4 @@ If you have In-Built Webcam in your laptop use
 ### With TrackerMOSSE
 ![](https://github.com/ganeshkumarofficial/Object-Tracker-with-Open-CV-Python/blob/master/Doc1-page-001.jpg?raw=true)
 ### With TrackerCSRT
-![](https://github.com/ganeshkumarofficial/Object-Tracker-with-Open-CV-Python/blob/master/Doc1-page-002.jpg?raw=true)
+![](https://github.com/ganeshkumarofficial/Object-Tracker-with-Open-CV-Python/blob/master/Doc2-page-001.jpg?raw=true)
